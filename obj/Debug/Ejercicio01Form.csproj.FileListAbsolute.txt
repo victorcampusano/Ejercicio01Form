@@ -1,0 +1,10 @@
+E:\dev\unad\papp\sd2025\Ejercicio01Form\bin\Debug\Ejercicio01Form.exe.config
+E:\dev\unad\papp\sd2025\Ejercicio01Form\bin\Debug\Ejercicio01Form.exe
+E:\dev\unad\papp\sd2025\Ejercicio01Form\bin\Debug\Ejercicio01Form.pdb
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.csprojAssemblyReference.cache
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.frmEjercicio1.resources
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.Properties.Resources.resources
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.csproj.GenerateResource.cache
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.csproj.CoreCompileInputs.cache
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.exe
+E:\dev\unad\papp\sd2025\Ejercicio01Form\obj\Debug\Ejercicio01Form.pdb
